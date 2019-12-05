@@ -1,0 +1,9 @@
+
+.todo__item{
+    padding:4px 0 !important;
+    width:100%;
+    border-bottom: 1px solid #D1D0D2;
+}
+.todo__list__button{
+    margin-top:4px;
+}

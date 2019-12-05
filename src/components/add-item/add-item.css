@@ -1,0 +1,7 @@
+.add__item{
+    display: flex;
+    justify-content: space-between;
+}
+.add__item__input{
+    width:310px;
+}

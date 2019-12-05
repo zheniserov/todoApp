@@ -1,0 +1,13 @@
+.app__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app__header h1{
+    margin :10px 0 20px 0;
+}
+.app__header h2{
+    margin :10px 0 20px 0;
+    color: #A1A2A3;
+    font-size: 15px;
+}

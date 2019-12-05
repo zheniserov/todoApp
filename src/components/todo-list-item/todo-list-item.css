@@ -1,0 +1,16 @@
+.todo__list__span{
+    cursor: pointer;
+}
+.todo__list__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.todo__list__span.done{
+    text-decoration: line-through;
+}
+.todo__list__span.important{
+    color:#2185D0;
+    font-weight: bold;
+}
+   
